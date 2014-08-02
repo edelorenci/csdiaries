@@ -1,4 +1,4 @@
-# Project P4
+#P4: CHILDREN'S SCIENCE DIARIES
 
 ## Live URL
 http://csdiaries-nativo.rhcloud.com
@@ -9,19 +9,20 @@ CHILDREN'S SCIENCE DIARIES
 
 Project P4 for Dynamic Web Applications Course / Harvard Summer School 2014
 
-Purpose:
+* Purpose:
 
 The application is a repository for children's science diaries. A science diary is related  
 to an experiment or particular study. 
 
 The users can create diaries; add information to a diary and view theirs diaries.
 
-Motivation:
+* Motivation:
 
 I have a friend who is an elementary school teacher in a public school located at a very 
 poor area in the city where I live. Many children in that school have a sad reality. 
 This teacher has been developing a creative project for getting the students focused 
 in learning. The application is  intended to be a complementary tool for science classes. 
+
 This project was inspired by my daughters' curiosity.
 
 ## Details for teaching team
