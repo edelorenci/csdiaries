@@ -1,25 +1,53 @@
-## Laravel PHP Framework
+# Project P4
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+## Live URL
+http://csdiaries-nativo.rhcloud.com
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+## Description
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+CHILDREN'S SCIENCE DIARIES
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+Project P4 for Dynamic Web Applications Course / Harvard Summer School 2014
 
-## Official Documentation
+Purpose:
 
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
+The application is a repository for children's science diaries. A science diary is related  
+to an experiment or particular study. 
 
-### Contributing To Laravel
+The users can create diaries; add information to a diary and view theirs diaries.
 
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
+Motivation:
 
-### License
+I have a friend who is an elementary school teacher in a public school located at a very 
+poor area in the city where I live. Many children in that school have a sad reality. 
+This teacher has been developing a creative project for getting the students focused 
+in learning. The application is  intended to be a complementary tool for science classes. 
+This project was inspired by my daughters' curiosity.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+## Details for teaching team
+
+The project is in its first stage. The features described in the Purpose Section are 
+implemented.  
+
+The second stage (to be implemented) will have the following functionalities:
+
+- Upload multiple pictures. 
+
+Each page can have many pictures. The actual database tables and
+ORM models support this relationship.
+
+- Search Science Arquives.
+
+The users will have the option to turn their diaries public. Public diaries will be searched 
+by keyword. The Search Science Arquives feature will be available to anyone, even for 
+no authenticated users.
+
+- Print diary.
+
+A PDF version of the diary will be available for printing.
+
+## Outside code
+
+Package from Packagist: Paste/Pre
+
+File public/styles/bootstrap.min.css downloaded from http://bootstrapdocs.com/v3.0.0/.

@@ -1,0 +1,89 @@
+body {
+	padding:20px;
+}
+
+
+
+section {
+	min-:100px;
+}
+
+
+
+h1 {
+	font-size: 45px;
+	color: #800080;
+	font-family: verdana;
+
+}
+
+
+
+h2 {
+	font-size: 35px;
+	color: #657383;
+	font-family: verdana;
+}
+
+
+
+
+a {
+	color: #4B0082;
+}
+
+
+
+
+dd {
+	color: #B6B6B4;
+}
+
+
+
+.col-lg-2 {
+	color: #848482;
+	font-size: 15px;		
+}
+
+
+
+.flash-message {
+	width:100%;
+	position:absolute;
+	top:0;
+	left:0;
+	background-color:#FF7F50;
+	text-align:center;
+	padding:5px;
+}
+
+
+
+label {
+	display:block;
+	text-transform:uppercase;
+}
+
+
+
+.error {
+	color:red;
+}
+
+
+
+.link {
+
+	color: #7B68EE;
+}
+
+.page {
+
+	width:60em; 
+	border:1px solid #000000;
+	word-wrap:break-word;
+}
+
+
+
