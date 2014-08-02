@@ -34,8 +34,7 @@ The second stage (to be implemented) will have the following functionalities:
 
 - Upload multiple pictures. 
 
-Each page can have many pictures. The actual database tables and
-ORM models support this relationship.
+Each page will  have many pictures. 
 
 - Search Science Arquives.
 
