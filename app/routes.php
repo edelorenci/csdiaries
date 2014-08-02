@@ -52,12 +52,6 @@ Route::get('/page/add-data/{id}', 'PageController@getAddData');
 Route::post('/page/add-data/{id}', 'PageController@postAddData');
 
 /*
----------------------------------------------------------------------------------
-Debugging the system
----------------------------------------------------------------------------------
-*/
-
-Route::controller('debug', 'DebugController');
 
 
 
